@@ -1,0 +1,42 @@
+| *Rank* | *Prioridade* | *User Story*                                                                                                          | *Estimativa* | *Sprint* |
+| -------- | -------------- | ----------------------------------------------------------------------------------------------------------------------- | -------------- | ---------- |
+| 1        | Alta           | Como sistema, quero configurar um banco de dados geoespacial utilizando PostGIS para armazenamento de dados geográficos | 5              | 1          |
+| 2        | Alta           | Como sistema, quero ingerir dados geográficos básicos dos municípios do estado de São Paulo                             | 5              | 1          |
+| 3        | Alta           | Como sistema, quero padronizar sistemas de coordenadas (CRS) e geometrias para consistência dos dados                   | 3              | 1          |
+| 4        | Alta           | Como sistema, quero indexar espacialmente os dados para otimizar consultas geográficas                                  | 5              | 1          |
+| 5        | Alta           | Como sistema, quero importar dados de Unidades de Conservação do ICMBio                                                 | 3              | 1          |
+| 6        | Alta           | Como sistema, quero importar dados de Terras Indígenas da FUNAI                                                         | 3              | 1          |
+| 7        | Alta           | Como sistema, quero importar dados de queimadas do INPE                                                                 | 3              | 1          |
+| 8        | Alta           | Como sistema, quero importar dados de assentamentos rurais do INCRA                                                     | 3              | 1          |
+| 9        | Alta           | Como sistema, quero importar dados de territórios quilombolas da Fundação Palmares                                      | 3              | 1          |
+| 10       | Alta           | Como sistema, quero integrar dados estaduais provenientes do DataGeo SP                                                 | 3              | 1          |
+| 11       | Alta           | Como sistema, quero disponibilizar uma API para consulta por município                                                  | 5              | 1          |
+| 12       | Alta           | Como sistema, quero disponibilizar uma API para retorno de features geográficas                                         | 5              | 1          |
+| 13       | Alta           | Como sistema, quero permitir filtros por tipo de camada na API                                                          | 3              | 1          |
+| 14       | Alta           | Como sistema, quero permitir consultas por bounding box (bbox) para visualização em mapas                               | 3              | 1          |
+| 15       | Média          | Como sistema, quero tratar dados para exibição em gráficos analíticos                                                   | 3              | 1          |
+| 16       | Média          | Como usuário, quero visualizar um dashboard interativo baseado em filtros selecionados                                  | 5              | 1          |
+| 17       | Média          | Como usuário, quero gerar relatórios em PDF baseados nos filtros aplicados                                              | 5              | 1          |
+| 18       | Alta           | Como usuário, quero visualizar um mapa com múltiplas camadas geográficas                                                | 5              | 2          |
+| 19       | Alta           | Como usuário, quero alternar entre diferentes layers no mapa                                                            | 3              | 2          |
+| 20       | Alta           | Como usuário, quero realizar zoom por município no mapa                                                                 | 3              | 2          |
+| 21       | Alta           | Como sistema, quero detectar interseção entre imóveis rurais e unidades de conservação                                  | 5              | 2          |
+| 22       | Alta           | Como sistema, quero detectar proximidade entre imóveis e áreas de queimadas                                             | 5              | 2          |
+| 23       | Alta           | Como sistema, quero calcular áreas sobrepostas entre entidades geográficas                                              | 5              | 2          |
+| 24       | Alta           | Como sistema, quero interpretar perguntas simples feitas pelo usuário                                                   | 3              | 2          |
+| 25       | Alta           | Como sistema, quero mapear a intenção do usuário em consultas semânticas                                                | 5              | 2          |
+| 26       | Alta           | Como sistema, quero extrair entidades geográficas (como município) das perguntas                                        | 5              | 2          |
+| 27       | Alta           | Como sistema, quero converter perguntas em consultas SQL automaticamente                                                | 5              | 2          |
+| 28       | Alta           | Como sistema, quero registrar a fonte de dados utilizada nas respostas                                                  | 3              | 2          |
+| 29       | Alta           | Como sistema, quero registrar a consulta SQL executada para rastreabilidade                                             | 3              | 2          |
+| 30       | Alta           | Como sistema, quero exibir as fontes utilizadas nas respostas ao usuário                                                | 3              | 2          |
+| 31       | Alta           | Como sistema, quero manter log das perguntas realizadas pelos usuários                                                  | 3              | 2          |
+| 32       | Média          | Como sistema, quero calcular um score ambiental para análise ASG                                                        | 5              | 3          |
+| 33       | Média          | Como sistema, quero classificar o risco ambiental de imóveis                                                            | 5              | 3          |
+| 34       | Média          | Como sistema, quero gerar um resumo ambiental por imóvel                                                                | 3              | 3          |
+| 35       | Média          | Como sistema, quero conectar o banco PostGIS ao QGIS para visualização                                                  | 3              | 3          |
+| 36       | Média          | Como sistema, quero publicar serviços WMS/WFS para consumo geoespacial                                                  | 5              | 3          |
+| 37       | Média          | Como sistema, quero disponibilizar um projeto configurado no QGIS                                                       | 3              | 3          |
+| 38       | Média          | Como sistema, quero otimizar consultas com índices espaciais avançados                                                  | 5              | 3          |
+| 39       | Média          | Como sistema, quero implementar cache de consultas para melhorar performance                                            | 5              | 3          |
+| 40       | Média          | Como sistema, quero reduzir o tempo de resposta das APIs geoespaciais                                                   | 5              | 3          |
