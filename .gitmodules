@@ -1,0 +1,6 @@
+[submodule "DataProcessing-2026-1"]
+	path = DataProcessing-2026-1
+	url = https://github.com/Code-Nine-FTC/DataProcessing-2026-1.git
+[submodule "Interface-2026-1"]
+	path = Interface-2026-1
+	url = https://github.com/Code-Nine-FTC/Interface-2026-1.git
