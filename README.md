@@ -67,11 +67,46 @@ por essa ferramenta, maior será o seu valor e utilidade ao usuário final.
 | 39       | Média          | Como sistema, quero implementar cache de consultas para melhorar performance                                            | 5              | 3          |
 | 40       | Média          | Como sistema, quero reduzir o tempo de resposta das APIs geoespaciais                                                   | 5              | 3          |
 
-## Cronograma de Evolução do Projeto
+## 📅 Cronograma de Evolução do Projeto
+
+| Sprint | Período | 📄 Documentação | 🎥 Apresentação |
+|--------|--------|----------------|----------------|
+| Sprint 01 | 16/03 - 05/04 | [Acessar](docs/sprint-01.md) | - |
+| Sprint 02 | 13/04 - 03/05 | [Acessar](docs/sprint-02.md) | - |
+| Sprint 03 | 11/05 - 31/05 | [Acessar](docs/sprint-03.md) | - |
 
 ## (Tabela descritiva das Sprints com as colunas: Periodo Sprint, link p/ doc, link p/ youtube)
 
-## Tecnologias Utilizadas
+## 🧰 Tecnologias Utilizadas
+
+### ⚙️ Backend / Serviços
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Alembic-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GeoServer-2C7FB8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/WMS/WFS-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge"/>
+</p>
+
+---
+
+### 🗄️ Banco de Dados
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pgvector-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+---
+
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
+
 
 ## Estrutura do Projeto
 
