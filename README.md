@@ -23,6 +23,9 @@ dados a partir de interações textuais com o usuário (e.g., faz-se uma pergunt
 ou a análise desejada). Quanto mais intuitiva, explicativa e visual for a resposta ou análise fornecida
 por essa ferramenta, maior será o seu valor e utilidade ao usuário final.
 
+## DoD e DoR
+[Acessar](https://github.com/Code-Nine-FTC/API-2026.1/blob/main/docs/dod-dor.md)
+
 ## Backlog do Produto
 | *Rank* | *Prioridade* | *User Story*                                                                                                          | *Estimativa* | *Sprint* |
 | -------- | -------------- | ----------------------------------------------------------------------------------------------------------------------- | -------------- | ---------- |
