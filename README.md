@@ -71,9 +71,9 @@ por essa ferramenta, maior será o seu valor e utilidade ao usuário final.
 
 | Sprint | Período | 📄 Documentação | 🎥 Apresentação |
 |--------|--------|----------------|----------------|
-| Sprint 01 | 16/03 - 05/04 | [Acessar](docs/sprint-01.md) | - |
-| Sprint 02 | 13/04 - 03/05 | [Acessar](docs/sprint-02.md) | - |
-| Sprint 03 | 11/05 - 31/05 | [Acessar](docs/sprint-03.md) | - |
+| Sprint 01 | 16/03 - 05/04 | [Acessar](https://github.com/Code-Nine-FTC/API-2026.1/blob/main/docs/Sprint-01.md) | - |
+| Sprint 02 | 13/04 - 03/05 | [Acessar](https://github.com/Code-Nine-FTC/API-2026.1/blob/main/docs/Sprint-02.md) | - |
+| Sprint 03 | 11/05 - 31/05 | [Acessar](https://github.com/Code-Nine-FTC/API-2026.1/blob/main/docs/Sprint-03.md) | - |
 
 ## (Tabela descritiva das Sprints com as colunas: Periodo Sprint, link p/ doc, link p/ youtube)
 
