@@ -134,9 +134,13 @@ O VISIONA propõe uma solução que:
 
 ## Histórico de Sprints
 
-- [**Sprint 01**](https://github.com/Code-Nine-FTC/API-2026.1/blob/main/docs/Sprint-01.md)
-- [**Sprint 02**](https://github.com/Code-Nine-FTC/API-2026.1/blob/main/docs/Sprint-02.md)
-- [**Sprint 03**](https://github.com/Code-Nine-FTC/API-2026.1/blob/main/docs/Sprint-03.md)
+## 📅 Cronograma de Evolução do Projeto
+
+| Sprint | Período | 📄 Documentação | 🎥 Apresentação |
+|--------|--------|----------------|----------------|
+| Sprint 01 | 16/03 - 05/04 | [Acessar](https://github.com/Code-Nine-FTC/API-2026.1/blob/main/docs/Sprint-01.md) | - |
+| Sprint 02 | 13/04 - 03/05 | [Acessar](https://github.com/Code-Nine-FTC/API-2026.1/blob/main/docs/Sprint-02.md) | - |
+| Sprint 03 | 11/05 - 31/05 | [Acessar](https://github.com/Code-Nine-FTC/API-2026.1/blob/main/docs/Sprint-03.md) | - |
 
 ---
 
