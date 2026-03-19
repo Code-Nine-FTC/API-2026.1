@@ -18,6 +18,10 @@
 | IRF04 | Alta | Mapear intenção do usuário | 5 |
 | IRF04 | Alta | Extrair entidades geográficas | 5 |
 | IRF04 | Alta | Converter perguntas em SQL | 5 |
+| IRF05 | Média | Definir parâmetros da bounding box | 1 |
+| IRF05 | Média | Implementar query espacial | 3 |
+| IRF05 | Média | Integrar com endpoint | 2 |
+| IRF05 | Média | Documentar | 1 |
 | IRF05 | Alta | Registrar fonte dos dados | 3 |
 | IRF05 | Alta | Registrar consultas SQL | 3 |
 | IRF05 | Alta | Exibir fontes ao usuário | 3 |
