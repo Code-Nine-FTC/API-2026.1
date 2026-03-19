@@ -30,14 +30,14 @@ Desenvolver a infraestrutura completa do sistema geoespacial, incluindo ingestã
 | IRF04 | Média | Filtro por categoria | 2 |
 | IRF04 | Média | Implementar paginação | 2 |
 | IRF04 | Média | Documentar API | 1 |
-| IRF05 | Média | Definir layout do dashboard | 2 |
-| IRF05 | Média | Integrar dados da API | 3 |
-| IRF05 | Média | Criar filtros interativos | 3 |
-| IRF05 | Média | Implementar estados de carregamento | 2 |
-| IRF06 | Média | Definir métricas relevantes | 2 |
-| IRF06 | Média | Transformar dados | 3 |
-| IRF06 | Média | Padronizar formato de saída | 2 |
-| IRF06 | Média | Validar dados processados | 2 |
+| IRF06 | Média | Definir layout do dashboard | 2 |
+| IRF06 | Média | Integrar dados da API | 3 |
+| IRF06 | Média | Criar filtros interativos | 3 |
+| IRF06 | Média | Implementar estados de carregamento | 2 |
+| IRF07 | Média | Definir métricas relevantes | 2 |
+| IRF07 | Média | Transformar dados | 3 |
+| IRF07 | Média | Padronizar formato de saída | 2 |
+| IRF07 | Média | Validar dados processados | 2 |
 
 ---
 
