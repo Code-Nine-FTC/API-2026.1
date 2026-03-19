@@ -102,10 +102,8 @@ O VISIONA propõe uma solução que:
 | IRF02 | Alta | Como sistema, quero disponibilizar uma API para consulta por município | 5 | 1 |
 | IRF02 | Alta | Como sistema, quero disponibilizar uma API para retorno de features geográficas | 5 | 1 |
 | IRF02 | Alta | Como sistema, quero permitir filtros por tipo de camada na API | 3 | 1 |
-| IRF02 | Alta | Como sistema, quero permitir consultas por bounding box (bbox) para visualização em mapas | 3 | 1 |
 | IRF02 | Média | Como sistema, quero tratar dados para exibição em gráficos analíticos | 3 | 1 |
 | IRF02 | Média | Como usuário, quero visualizar um dashboard interativo baseado em filtros selecionados | 5 | 1 |
-| IRF02 | Média | Como usuário, quero gerar relatórios em PDF baseados nos filtros aplicados | 5 | 1 |
 | IRF02 | Alta | Como usuário, quero visualizar um mapa com múltiplas camadas geográficas | 5 | 2 |
 | IRF02 | Alta | Como usuário, quero alternar entre diferentes layers no mapa | 3 | 2 |
 | IRF02 | Alta | Como usuário, quero realizar zoom por município no mapa | 3 | 2 |
@@ -120,6 +118,8 @@ O VISIONA propõe uma solução que:
 | IRF05 | Alta | Como sistema, quero registrar a consulta SQL executada para rastreabilidade | 3 | 2 |
 | IRF05 | Alta | Como sistema, quero exibir as fontes utilizadas nas respostas ao usuário | 3 | 2 |
 | IRF05 | Alta | Como sistema, quero manter log das perguntas realizadas pelos usuários | 3 | 2 |
+| IRF05 | Alta | Como sistema, quero permitir consultas por bounding box (bbox) para visualização em mapas | 3 | 2 |
+| IRF02 | Média | Como usuário, quero gerar relatórios em PDF baseados nos filtros aplicados | 5 | 2 |
 | IRF06 | Média | Como sistema, quero calcular um score ambiental para análise ASG | 5 | 3 |
 | IRF06 | Média | Como sistema, quero classificar o risco ambiental de imóveis | 5 | 3 |
 | IRF06 | Média | Como sistema, quero gerar um resumo ambiental por imóvel | 3 | 3 |
