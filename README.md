@@ -85,6 +85,41 @@ O VISIONA propõe uma solução que:
 
 ---
 
+## 📌 Requisitos do Sistema
+
+### ✅ Requisitos Funcionais (RF)
+
+| ID   | Descrição                                                                                                  |
+| ---- | ---------------------------------------------------------------------------------------------------------- |
+| RF01 | Permitir a ingestão e armazenamento de dados geoespaciais de diferentes fontes (INPE, ICMBio, FUNAI, etc.) |
+| RF02 | Disponibilizar APIs para consulta de dados geográficos por município e camadas                             |
+| RF03 | Permitir a visualização de dados em mapas interativos com múltiplas camadas                                |
+| RF04 | Realizar análises espaciais (interseção, proximidade e sobreposição)                                       |
+| RF05 | Interpretar perguntas em linguagem natural e convertê-las em consultas SQL                                 |
+| RF06 | Registrar consultas, fontes de dados e histórico de interações do usuário                                  |
+| RF07 | Gerar relatórios analíticos em PDF com base nos dados filtrados                                            |
+| RF08 | Calcular score ambiental (ASG) para imóveis rurais                                                         |
+| RF09 | Classificar o risco ambiental com base nos dados analisados                                                |
+| RF10 | Disponibilizar serviços geoespaciais (WMS/WFS) para integração externa                                     |
+| RF11 | Permitir consultas geográficas por bounding box (bbox)                                                     |
+
+### ⚙️ Requisitos Não Funcionais (RNF)
+
+| ID    | Descrição                                                                                          |
+| ----- | -------------------------------------------------------------------------------------------------- |
+| RNF01 | O sistema deve responder às requisições da API em até 2 segundos, em condições normais             |
+| RNF02 | O sistema deve suportar grande volume de dados geoespaciais com uso de índices espaciais (PostGIS) |
+| RNF03 | As APIs devem seguir o padrão REST                                                                 |
+| RNF04 | O sistema deve garantir consistência e integridade dos dados geográficos (padronização de CRS)     |
+| RNF05 | O sistema deve possuir escalabilidade para crescimento do volume de dados                          |
+| RNF06 | O sistema deve garantir rastreabilidade das consultas realizadas                                   |
+| RNF07 | O sistema deve ser compatível com ferramentas geoespaciais como QGIS                               |
+| RNF08 | O sistema deve garantir segurança no acesso às APIs                   |
+| RNF09 | O sistema deve possuir alta disponibilidade durante o uso                                          |
+| RNF10 | O sistema deve ser modular, facilitando manutenção e evolução                                      |
+
+---
+
 ## 🗃️ Product Backlog
 
 | *Rank* | *Prioridade* | *User Story* | *Estimativa* | *Sprint* |
