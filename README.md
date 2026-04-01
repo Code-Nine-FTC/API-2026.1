@@ -131,7 +131,6 @@ O VISIONA propõe uma solução que:
 | RF02 | Alta | Como sistema, quero disponibilizar uma API para retorno de features geográficas | 5 | 1 |
 | RF02 | Média | Como sistema, quero tratar dados para exibição em gráficos analíticos | 3 | 1 |
 | RF02 | Média | Como usuário, quero visualizar um dashboard interativo baseado em filtros selecionados | 5 | 1 |
-| RF02 | Alta | Como usuário, quero visualizar um mapa com múltiplas camadas geográficas | 5 | 2 |
 | RF02 | Alta | Como usuário, quero alternar entre diferentes layers no mapa | 3 | 2 |
 | RF02 | Alta | Como usuário, quero realizar zoom por município no mapa | 3 | 2 |
 | RF03 | Alta | Como sistema, quero detectar interseção entre imóveis rurais e unidades de conservação | 5 | 2 |
