@@ -125,18 +125,10 @@ O VISIONA propõe uma solução que:
 | *Rank* | *Prioridade* | *User Story* | *Estimativa* | *Sprint* |
 |--------|--------------|-------------|--------------|----------|
 | RF01 | Alta | Como sistema, quero configurar um banco de dados geoespacial utilizando PostGIS para armazenamento de dados geográficos | 5 | 1 |
-| RF01 | Alta | Como sistema, quero ingerir dados geográficos básicos dos municípios do estado de São Paulo | 5 | 1 |
 | RF01 | Alta | Como sistema, quero padronizar sistemas de coordenadas (CRS) e geometrias para consistência dos dados | 3 | 1 |
 | RF01 | Alta | Como sistema, quero indexar espacialmente os dados para otimizar consultas geográficas | 5 | 1 |
-| RF01 | Alta | Como sistema, quero importar dados de Unidades de Conservação do ICMBio | 3 | 1 |
-| RF01 | Alta | Como sistema, quero importar dados de Terras Indígenas da FUNAI | 3 | 1 |
-| RF01 | Alta | Como sistema, quero importar dados de queimadas do INPE | 3 | 1 |
-| RF01 | Alta | Como sistema, quero importar dados de assentamentos rurais do INCRA | 3 | 1 |
-| RF01 | Alta | Como sistema, quero importar dados de territórios quilombolas da Fundação Palmares | 3 | 1 |
-| RF01 | Alta | Como sistema, quero integrar dados estaduais provenientes do DataGeo SP | 3 | 1 |
 | RF02 | Alta | Como sistema, quero disponibilizar uma API para consulta por município | 5 | 1 |
 | RF02 | Alta | Como sistema, quero disponibilizar uma API para retorno de features geográficas | 5 | 1 |
-| RF02 | Alta | Como sistema, quero permitir filtros por tipo de camada na API | 3 | 1 |
 | RF02 | Média | Como sistema, quero tratar dados para exibição em gráficos analíticos | 3 | 1 |
 | RF02 | Média | Como usuário, quero visualizar um dashboard interativo baseado em filtros selecionados | 5 | 1 |
 | RF02 | Alta | Como usuário, quero visualizar um mapa com múltiplas camadas geográficas | 5 | 2 |
