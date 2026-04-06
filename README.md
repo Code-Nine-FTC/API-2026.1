@@ -131,20 +131,22 @@ O VISIONA propõe uma solução que:
 | RF02 | Alta | Como sistema, quero disponibilizar uma API para retorno de features geográficas | 5 | 1 |
 | RF02 | Média | Como sistema, quero tratar dados para exibição em gráficos analíticos | 3 | 1 |
 | RF02 | Média | Como usuário, quero visualizar um dashboard interativo baseado em filtros selecionados | 5 | 1 |
+| RF05 | Alta | Como sistema, quero registrar a consulta SQL executada para rastreabilidade | 3 | 1 |
+| RF04 | Alta | Como sistema, quero extrair entidades geográficas (como município) das perguntas | 5 | 1 |
+| RF04 | Alta | Como sistema, quero converter perguntas em consultas SQL automaticamente | 5 | 1 |
+| RF05 | Alta | Como sistema, quero exibir as fontes utilizadas nas respostas ao usuário | 3 | 1 |
+| RF05 | Alta | Como sistema, quero manter log das perguntas realizadas pelos usuários | 3 | 1 |
+| RF04 | Alta | Como sistema, quero interpretar perguntas simples feitas pelo usuário | 3 | 1 |
+| RF02 | Alta | Como usuário, quero realizar zoom por município no mapa | 3 | 1 |
+| RF05 | Alta | Como sistema, quero registrar a fonte de dados utilizada nas respostas | 3 | 1 |
+| RF05 | Alta | Como sistema, quero registrar a consulta SQL executada para rastreabilidade | 3 | 1 |
+| RF05 | Alta | Como sistema, quero exibir as fontes utilizadas nas respostas ao usuário | 3 | 1 |
+| RF05 | Alta | Como sistema, quero permitir consultas por bounding box (bbox) para visualização em mapas | 3 | 1 |
 | RF02 | Alta | Como usuário, quero alternar entre diferentes layers no mapa | 3 | 2 |
-| RF02 | Alta | Como usuário, quero realizar zoom por município no mapa | 3 | 2 |
 | RF03 | Alta | Como sistema, quero detectar interseção entre imóveis rurais e unidades de conservação | 5 | 2 |
 | RF03 | Alta | Como sistema, quero detectar proximidade entre imóveis e áreas de queimadas | 5 | 2 |
 | RF03 | Alta | Como sistema, quero calcular áreas sobrepostas entre entidades geográficas | 5 | 2 |
-| RF04 | Alta | Como sistema, quero interpretar perguntas simples feitas pelo usuário | 3 | 2 |
 | RF04 | Alta | Como sistema, quero mapear a intenção do usuário em consultas semânticas | 5 | 2 |
-| RF04 | Alta | Como sistema, quero extrair entidades geográficas (como município) das perguntas | 5 | 2 |
-| RF04 | Alta | Como sistema, quero converter perguntas em consultas SQL automaticamente | 5 | 2 |
-| RF05 | Alta | Como sistema, quero registrar a fonte de dados utilizada nas respostas | 3 | 2 |
-| RF05 | Alta | Como sistema, quero registrar a consulta SQL executada para rastreabilidade | 3 | 2 |
-| RF05 | Alta | Como sistema, quero exibir as fontes utilizadas nas respostas ao usuário | 3 | 2 |
-| RF05 | Alta | Como sistema, quero manter log das perguntas realizadas pelos usuários | 3 | 2 |
-| RF05 | Alta | Como sistema, quero permitir consultas por bounding box (bbox) para visualização em mapas | 3 | 2 |
 | RF02 | Média | Como usuário, quero gerar relatórios em PDF baseados nos filtros aplicados | 5 | 2 |
 | RF06 | Média | Como sistema, quero calcular um score ambiental para análise ASG | 5 | 3 |
 | RF06 | Média | Como sistema, quero classificar o risco ambiental de imóveis | 5 | 3 |
