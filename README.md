@@ -181,8 +181,9 @@ Critérios para uma tarefa estar pronta para desenvolvimento:
 
 ## 📂 Estrutura do Projeto
 
-> (Diagrama aqui futuramente)
-
+<p align="center">
+  <img src="docs/arquitetura.jpeg" alt="Estrutura do Projeto" width="600"/>
+</p>
 ---
 
 ## 🔗 Links da API
