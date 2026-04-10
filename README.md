@@ -122,41 +122,32 @@ O VISIONA propõe uma solução que:
 
 ## 🗃️ Product Backlog
 
-| *Rank* | *Prioridade* | *User Story* | *Estimativa* | *Sprint* |
-|--------|--------------|-------------|--------------|----------|
-| RF01 | Alta | Como sistema, quero configurar um banco de dados geoespacial utilizando PostGIS para armazenamento de dados geográficos | 5 | 1 |
-| RF01 | Alta | Como sistema, quero padronizar sistemas de coordenadas (CRS) e geometrias para consistência dos dados | 3 | 1 |
-| RF01 | Alta | Como sistema, quero indexar espacialmente os dados para otimizar consultas geográficas | 5 | 1 |
-| RF02 | Alta | Como sistema, quero disponibilizar uma API para consulta por município | 5 | 1 |
-| RF02 | Alta | Como sistema, quero disponibilizar uma API para retorno de features geográficas | 5 | 1 |
-| RF02 | Média | Como sistema, quero tratar dados para exibição em gráficos analíticos | 3 | 1 |
-| RF02 | Média | Como usuário, quero visualizar um dashboard interativo baseado em filtros selecionados | 5 | 1 |
-| RF05 | Alta | Como sistema, quero registrar a consulta SQL executada para rastreabilidade | 3 | 1 |
-| RF04 | Alta | Como sistema, quero extrair entidades geográficas (como município) das perguntas | 5 | 1 |
-| RF04 | Alta | Como sistema, quero converter perguntas em consultas SQL automaticamente | 5 | 1 |
-| RF05 | Alta | Como sistema, quero exibir as fontes utilizadas nas respostas ao usuário | 3 | 1 |
-| RF05 | Alta | Como sistema, quero manter log das perguntas realizadas pelos usuários | 3 | 1 |
-| RF04 | Alta | Como sistema, quero interpretar perguntas simples feitas pelo usuário | 3 | 1 |
-| RF02 | Alta | Como usuário, quero realizar zoom por município no mapa | 3 | 1 |
-| RF05 | Alta | Como sistema, quero registrar a fonte de dados utilizada nas respostas | 3 | 1 |
-| RF05 | Alta | Como sistema, quero registrar a consulta SQL executada para rastreabilidade | 3 | 1 |
-| RF05 | Alta | Como sistema, quero exibir as fontes utilizadas nas respostas ao usuário | 3 | 1 |
-| RF05 | Alta | Como sistema, quero permitir consultas por bounding box (bbox) para visualização em mapas | 3 | 1 |
-| RF02 | Alta | Como usuário, quero alternar entre diferentes layers no mapa | 3 | 2 |
-| RF03 | Alta | Como sistema, quero detectar interseção entre imóveis rurais e unidades de conservação | 5 | 2 |
-| RF03 | Alta | Como sistema, quero detectar proximidade entre imóveis e áreas de queimadas | 5 | 2 |
-| RF03 | Alta | Como sistema, quero calcular áreas sobrepostas entre entidades geográficas | 5 | 2 |
-| RF04 | Alta | Como sistema, quero mapear a intenção do usuário em consultas semânticas | 5 | 2 |
-| RF02 | Média | Como usuário, quero gerar relatórios em PDF baseados nos filtros aplicados | 5 | 2 |
-| RF06 | Média | Como sistema, quero calcular um score ambiental para análise ASG | 5 | 3 |
-| RF06 | Média | Como sistema, quero classificar o risco ambiental de imóveis | 5 | 3 |
-| RF06 | Média | Como sistema, quero gerar um resumo ambiental por imóvel | 3 | 3 |
-| RF06 | Média | Como sistema, quero conectar o banco PostGIS ao QGIS para visualização | 3 | 3 |
-| RF06 | Média | Como sistema, quero publicar serviços WMS/WFS para consumo geoespacial | 5 | 3 |
-| RF06 | Média | Como sistema, quero disponibilizar um projeto configurado no QGIS | 3 | 3 |
-| RF06 | Média | Como sistema, quero otimizar consultas com índices espaciais avançados | 5 | 3 |
-| RF06 | Média | Como sistema, quero implementar cache de consultas para melhorar performance | 5 | 3 |
-| RF06 | Média | Como sistema, quero reduzir o tempo de resposta das APIs geoespaciais | 5 | 3 |
+| Rank | Prioridade | User Story | Estimativa | Sprint |
+|------|------------|------------|------------|--------|
+| RF01 | Alta | Como usuário, quero visualizar um dashboard interativo com dados geoespaciais para analisar informações ambientais | 5 | 1 |
+| RF01 | Alta | Como usuário, quero filtrar dados por município para refinar minha análise | 5 | 1 |
+| RF01 | Alta | Como usuário, quero visualizar dados geográficos em um mapa com zoom por município | 3 | 1 |
+| RF01 | Alta | Como usuário, quero consultar diferentes camadas de dados no mapa para entender múltiplos contextos | 3 | 1 |
+| RF01 | Média | Como usuário, quero visualizar gráficos analíticos baseados nos dados filtrados | 3 | 1 |
+| RF01 | Alta | Como usuário, quero realizar consultas geográficas por área (bounding box) no mapa | 3 | 1 |
+| RF02 | Alta | Como usuário, quero fazer perguntas em linguagem natural para obter informações sobre os dados | 5 | 1 |
+| RF02 | Alta | Como usuário, quero que o sistema interprete perguntas simples corretamente | 3 | 1 |
+| RF02 | Alta | Como usuário, quero que o sistema identifique automaticamente entidades como municípios nas minhas perguntas | 5 | 1 |
+| RF02 | Alta | Como usuário, quero receber respostas baseadas em consultas aos dados geoespaciais | 5 | 1 |
+| RF02 | Alta | Como usuário, quero visualizar as fontes de dados utilizadas nas respostas para confiar nas informações | 3 | 1 |
+| RF03 | Alta | Como usuário, quero identificar interseções entre imóveis rurais e unidades de conservação para análise ambiental | 5 | 2 |
+| RF03 | Alta | Como usuário, quero identificar proximidade entre imóveis e áreas de queimadas para avaliar riscos | 5 | 2 |
+| RF03 | Alta | Como usuário, quero visualizar áreas sobrepostas entre entidades geográficas para melhor compreensão espacial | 5 | 2 |
+| RF03 | Alta | Como usuário, quero que o sistema entenda a intenção das minhas perguntas para respostas mais precisas | 5 | 2 |
+| RF04 | Média | Como usuário, quero visualizar dados geoespaciais integrados a ferramentas como QGIS | 3 | 2 |
+| RF04 | Média | Como usuário, quero acessar serviços geoespaciais (WMS/WFS) para uso em outras aplicações | 5 | 2 |
+| RF04 | Média | Como usuário, quero acessar um projeto configurado no QGIS para exploração dos dados | 3 | 2 |
+| RF03 | Média | Como usuário, quero gerar relatórios em PDF com base nos filtros aplicados para compartilhar análises | 5 | 3 |
+| RF04 | Média | Como usuário, quero visualizar um score ambiental dos imóveis para avaliação ASG | 5 | 3 |
+| RF04 | Média | Como usuário, quero visualizar a classificação de risco ambiental dos imóveis | 5 | 3 |
+| RF04 | Média | Como usuário, quero obter um resumo ambiental por imóvel para análise rápida | 3 | 3 |
+| RF04 | Média | Como usuário, quero respostas rápidas nas consultas para melhorar minha experiência | 5 | 3 |
+| RF04 | Média | Como usuário, quero que o sistema carregue dados e mapas de forma eficiente | 5 | 3 |
 
 ---
 
