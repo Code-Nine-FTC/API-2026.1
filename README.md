@@ -83,6 +83,8 @@ O VISIONA propõe uma solução que:
 - Responde perguntas do usuário por meio de consultas inteligentes
 - Apresenta dados de forma visual, interativa e intuitiva
 
+- [Link Para o Notion](https://www.notion.so/Visiona-Documenta-o-349845ef97d9804cb0b5e29718f2e448)
+
 ---
 
 ## 📌 Requisitos do Sistema
